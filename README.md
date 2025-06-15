@@ -2,7 +2,7 @@
 
 [![SwaSakhi Logo](https://placehold.co/600x200/A88FAC/F7F0F5?text=SwaSakhi&font=Poppins)](https://swasakhi.example.com)
 
-**Tired of juggling a million apps and websites to track your periods, navigate pregnancy, and get postpartum support? SwaSakhi is here to simplify, support, and soothe you through every phase of your reproductive health journey! 🌸🤰🤱💖
+Tired of juggling a million apps and websites to track your periods, navigate pregnancy, and get postpartum support? **SwaSakhi** is here to simplify, support, and soothe you through every phase of your reproductive health journey! 🌸🤰🤱💖
 
 SwaSakhi is not just an app; it's your AI-powered best friend, your wellness coach, your community hub, and your go-to resource for everything related to periods, pregnancy, and postpartum. We're making womanhood easier, one feature at a time!
 
